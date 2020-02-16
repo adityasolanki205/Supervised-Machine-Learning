@@ -1,6 +1,6 @@
 # Intro to Machine Learning Nanodegree
 
-## Linear Regression
+## Gradiant Descent
 
 This Sub folder has basics of Linear Regression where Batch Gradiant is mathamatically Calculated
 
