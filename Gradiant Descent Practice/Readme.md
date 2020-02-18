@@ -2,7 +2,7 @@
 
 ## Gradiant Descent
 
-This Sub folder has basics of Linear Regression where Batch Gradiant is mathamatically Calculated
+This Sub folder has basics of Linear Regression where Batch Gradiant is mathematically Calculated
 
 1. Supporting files:
 
