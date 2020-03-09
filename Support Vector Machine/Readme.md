@@ -1,6 +1,6 @@
 # Intro to Machine Learning Nanodegree
 
-## Decision Tree Practice
+## Support Vector Machine Practice
 
 This Sub folder has basics of Support Vector machine algorithm where we learn the simple usage of Fit and predict
 
