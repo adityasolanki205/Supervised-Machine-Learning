@@ -9,6 +9,8 @@ This Sub folder has basics of train test split where we learn the simple usage o
     - data.csv
 
     - Mysolution.csv
+    
+    - quiq.py
 
 
 ```python
