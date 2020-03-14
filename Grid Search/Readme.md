@@ -6,7 +6,7 @@ This Sub folder has basics of Grid Search algorithm where we learn the simple us
 
 1. Supporting files:
 
-    - solution.py
+    - solution.ipynb
     
     - Grid_Search_lab.ipynb
 
