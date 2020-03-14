@@ -1,6 +1,6 @@
 # Intro to Machine Learning Nanodegree
 
-## Evaluation Metrix Practice
+## Evaluation Metrix Practice for Regression
 
 This Sub folder has basics of various evaluation method to verify the output where we learn the simple usage precision, recall, accuracy and F1_score
 
@@ -10,11 +10,9 @@ This Sub folder has basics of various evaluation method to verify the output whe
 
     - images
 
-    - Classification_Metrics_original.ipynb
+    - Regression_Metrics.ipynb
     
-    - Classification_Metrics_solution.ipynb
-    
-    - Classification_Metrics_my_soltion.ipynb
+    - Regression_Metrics_solution.ipynb
     
     - tests.py
     
